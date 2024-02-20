@@ -3,7 +3,7 @@
     "path": "~/MS/STAT-515/Assignments/Week4/PravalikaWebsite1/_quarto.yml",
     "project_path": "_quarto.yml",
     "type": "yaml",
-    "hash": "0",
+    "hash": "241043346",
     "contents": "",
     "dirty": false,
     "created": 1708310998714.0,
@@ -12,15 +12,15 @@
     "properties": {
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "2,0",
+        "cursorPosition": "2,18",
         "scrollLine": "0"
     },
     "folds": "",
-    "lastKnownWriteTime": 1708318851,
+    "lastKnownWriteTime": 1708396728,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1708318852028,
+    "last_content_update": 1708396728427,
     "read_only": false,
     "read_only_alternatives": []
 }
