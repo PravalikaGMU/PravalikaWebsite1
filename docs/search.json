@@ -1,5 +1,12 @@
 [
   {
+    "objectID": "Help.html",
+    "href": "Help.html",
+    "title": "Help",
+    "section": "",
+    "text": "Help with Quarto website: https://quarto.org/"
+  },
+  {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About",
